@@ -45,7 +45,7 @@ Na execução local com SQL Server 2025 Express, os acessos permitidos funcionar
 | Funcionarios | 5 | 5 |
 | Vendas | 20 | 20 |
 
-A versão publicada substitui as senhas locais por marcadores. Os arquivos de backup e os arquivos físicos dos bancos não são versionados.
+A versão publicada substitui as senhas locais por marcadores e usa clientes e funcionários gerados exclusivamente para demonstração. Os valores de CPF são identificadores artificiais TESTE, sem formato de CPF real; os e-mails usam example.com e os salários são valores sintéticos. A validação acima foi realizada na versão local, antes dessa substituição dos registros. Os arquivos de backup e os arquivos físicos dos bancos não são versionados.
 
 ## Contexto
 
