@@ -1,0 +1,8 @@
+*.bak
+*.trn
+*.mdf
+*.ndf
+*.ldf
+.env
+.env.*
+*.local.sql
